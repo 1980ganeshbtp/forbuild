@@ -4,13 +4,7 @@
 				"name": "Scrum 01",
 				"description": "This meeting should take a deeper look at ...",
 				"starts_at": "2025-08-26T13:30:00.919Z",
-				"location": "Room 1423",
-				"feedback": [
-								{
-	  							"user_id": 1,
-          						"effective": 1,
-          						"text": "Super effective. The problem was resolved"
-								}
-      						]
+				"location": "Room 1423"
+
 			]
 }	  
